@@ -12,13 +12,13 @@ this project showes:-
 2) top 5 categories
 3) categories convertion rate (ex:- which categories convert more customers )
 4) top 10 products convertion rate
-5) finding of high price products (ex:-  * If a product has 200 views and 0 carts, its cart conversion = 0%
-                                         * This is a strong signal of overpricing or mismatch between value and price.
-                                         * Thus, products with high traffic but <1% view-to-cart conversion are likely overpriced.)
-6) Create price buckets (* 1. HIGH PRICE & LOW CONVERSION → Overpriced
-                         * 2. HIGH PRICE & HIGH CONVERSION → Premium & Healthy -- accepted price
-                         * 3. LOW PRICE & HIGH CONVERSION → Strong Budget Category
-                         * 4. LOW PRICE & LOW CONVERSION → Weak / Not Attractive )
+5) finding of high price products (ex:-   If a product has 200 views and 0 carts, its cart conversion = 0%.
+                                          This is a strong signal of overpricing or mismatch between value and price.
+                                          Thus, products with high traffic but <1% view-to-cart conversion are likely overpriced.)
+6) Create price buckets ( 1. HIGH PRICE & LOW CONVERSION → Overpriced.
+                          2. HIGH PRICE & HIGH CONVERSION → Premium & Healthy -- accepted price.
+                          3. LOW PRICE & HIGH CONVERSION → Strong Budget Category.
+                          4. LOW PRICE & LOW CONVERSION → Weak / Not Attractive. )
 7) top 10 categories which generate more revenue
 8) top 10 categories which generate least revenue
 9) AVG  order value of category
