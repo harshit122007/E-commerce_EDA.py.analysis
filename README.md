@@ -32,6 +32,7 @@ this project showes:-
 ## 📊 Dataset
 - this dataset is get from github
 - size of dataset is -- 5.5GB
-                     -- approximatly 7 crores rows  
+                     -- approximatly 7 crores columns
+    
 
 
